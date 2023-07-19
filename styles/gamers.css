@@ -495,6 +495,12 @@ img{
     font-weight: 600;
     text-transform: uppercase;
 }
+.game5{
+    width: 1920px;
+    height: 427px;
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+
+}
 .Rectangle11{
     position:absolute;
     margin-top: 300px;
@@ -590,6 +596,16 @@ img{
     border-radius: 50px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
+.Word{
+    position:absolute;
+    margin-top: 300px;
+    top: 4882.83px;
+    left: 1493px;
+    right:302px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
 .Rectangle16{
     position:absolute;
     margin-top: 300px;
@@ -600,6 +616,16 @@ img{
     height: 60px;
     border-radius: 50px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Role {
+    position:absolute;
+    margin-top: 300px;
+    top: 4990px;
+    left: 411px;
+    right:1316px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
 }
 .Rectangle17{
     position:absolute;
@@ -612,6 +638,16 @@ img{
     border-radius: 50px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
+.Music{
+    position:absolute;
+    margin-top: 300px;
+    top: 4990px;
+    left: 743px;
+    right:966px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
 .Rectangle18{
     position:absolute;
     margin-top: 300px;
@@ -623,6 +659,16 @@ img{
     border-radius: 50px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
+.Puzzle{
+    position:absolute;
+    margin-top: 300px;
+    top: 4990px;
+    left: 1089px;
+    right:693px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
 .Rectangle19{
     position:absolute;
     margin-top: 300px;
@@ -633,4 +679,42 @@ img{
     height: 60px;
     border-radius: 50px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Strategy{
+    position:absolute;
+    margin-top: 300px;
+    top: 4990px;
+    left: 1367px;
+    right:393px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.endicon{
+    width: 1920px;
+    height: 636px;
+    top: 5160px;
+    flex-shrink: 0;
+}
+.endicon1{
+    position:absolute;
+    margin-top: 300px;
+    top: 5286.83px;
+    left:833px;
+    right:1000.96px;
+    width: 86.041px;
+    height: 40px;
+    flex-shrink: 0;
+}
+.ensicone2{
+    position:absolute;
+    margin-top: 300px;
+    top: 5280.83px;
+    left:939.04px;
+    right:833.96px;
+    width: 86.041px;
+    height: 40px;
+    flex-shrink: 0;
+
+
 }
