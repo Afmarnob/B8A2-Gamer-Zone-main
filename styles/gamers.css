@@ -1,0 +1,426 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,500;0,600;0,700;0,800;1,400&display=swap');
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+    padding: 38px 346px;
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.topImgIcon{
+    display: flex;
+    gap: 20px;
+}
+.topImgIcon1{
+    width: 86.041px;
+    height: 40px;
+    margin-top: 26px;
+}
+nav >ul {
+    display: flex;
+    margin-left:37px 240px;
+    
+}
+nav li{
+    list-style: none;
+    margin-right:32px;
+    color: #3C354F;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+   
+}
+nav li a{
+    text-decoration: none;
+}
+.youtube{
+    width: 33.916px;
+    height: 24px;
+    flex-shrink: 0;
+}
+.g{
+    color:rgb(246, 113, 157);
+    text-align: center;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.back{
+    display: flex;
+    background-image: url("../images/Group\ 14.png");
+    width: 901px;
+    height: 700px;
+    padding-right:0 200px;
+    margin-right: 0 68px;
+}
+h2{
+    color: #0B0223;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: upercase;
+}
+
+
+.first-txt {
+    position:absolute;
+    margin-top: 300px;
+    font-size: 48px;
+    top: 148px;
+    left: 244px;
+}
+
+.second-txt {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position:absolute;
+    margin-top: 300px;
+    font-size: 95px;
+    top: 208px;
+    left: 240px;
+}
+.instantplay{
+    position:absolute;
+    margin-top: 300px;
+    font-size: 20px;
+    color: #5c5a62;
+    top: 343px;
+    left: 276px;
+}
+.no-download{
+    position:absolute;
+    margin-top: 300px;
+    font-size: 20px;
+    top: 383px;
+    left: 276px;
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+}
+.online-games{
+    position:absolute;
+    margin-top: 300px;
+    font-size: 20px;
+    top: 423px;
+    left: 276px;
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+}
+img{
+    gap: 68px;
+}
+.black1{
+    width: 1920px;
+    height: 600px;
+    flex-shrink: 0;;
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+
+
+}
+.are-gamer{
+    position:absolute;
+    margin-top: 300px;
+    font-size: 48px;
+    top: 795px;
+    left: 1355px;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.digital-games{
+    position:absolute;
+    margin-top: 300px;
+    font-size: 48px;
+    top: 875px;
+    left: 1160px;
+    right: 240px;
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.more{
+    position:absolute;
+    border-radius: 48px;
+    background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 10px;
+    margin-top: 208px;
+    top: 1064px;
+    left: 1472px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.purpose{
+    position:absolute;
+    margin-top: 300px;
+    font-size: 24px;
+    top: 1080px;
+    left: 1550px;
+    right: 240px;
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.unleash{
+    position:absolute;
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+    margin-top: 300px;
+    font-size: 32px;
+    top: 1116px;
+    left: 1190px;
+    right: 240px;
+    color: #534C64;
+    font-weight: 400;
+    line-height: 30px;
+}
+.Funny-Videos{
+    width: 1920px;
+    height: 5927px;
+    background: #FFF;
+}
+.funny-title{
+    text-align: center;
+    position:absolute;
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+    margin-top: 300px;
+    font-size: 32px;
+    top: 1420px;
+    left: 632px;
+    right: 633px;
+    color: #534C64;
+    font-weight: 400;
+    line-height: 30px;
+}
+.block{
+    color: #0B0223;
+    text-align: right;
+    font-size: 48px;
+    font-weight: 700;
+ }
+.block1{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 48px;
+    font-weight: 700;
+}
+.Collection{
+    text-align: center;
+    position:absolute;
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+    margin-top: 300px;
+    top: 1492px;
+    left: 728px;
+    right: 730px;
+    color: #534C64;
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 18px;
+}
+.Rectangle4{
+    position:absolute;
+    margin-top: 300px;
+    top: 1570px;
+    left: 240px;
+    right: 1338px;
+}
+.img-title4{
+    position:absolute;
+    margin-top: 300px;
+    top: 1990px;
+    left: 240px;
+    right: 1338px;
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    
+}
+.Rectangle5{
+    position:absolute;
+    margin-top: 300px;
+    top: 1570px;
+    left: 606px;
+    right: 972px;
+}
+.img-title5{
+    position:absolute;
+    margin-top: 300px;
+    top: 1990px;
+    left: 606px;
+    right: 972px;
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.Rectangle7{
+    position:absolute;
+    margin-top: 300px;
+    top: 1570px;
+    left: 972px;
+    right: 606px;
+}
+.img-title7{
+    position:absolute;
+    margin-top: 300px;
+    top: 1990px;
+    left: 972px;
+    right: 704px;
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.Rectangle6{
+    position:absolute;
+    margin-top: 300px;
+    top: 1570px;
+    left: 1338px;
+    right: 240px;
+}
+.img-title6{
+    position:absolute;
+    margin-top: 300px;
+    top: 1990px;
+    left: 1338px;
+    right: 240px;
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.play-title{
+    position:absolute;
+    margin-top: 300px;
+    top: 2390px;
+    left: 439px;
+    right: 1140px;
+    text-align: right;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+}
+.Play-games-online{
+    position:absolute;
+    margin-top: 300px;
+    top: 2594px;
+    left: 427px;
+    right: 1140px;
+    color: #534C64;
+    text-align: right;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.Rectangle55{
+    position:absolute;
+    margin-top: 300px;
+    top: 2174px;
+    left: 1046px;
+    right: 240px;
+    width: 634.833px;
+    height: 650px;
+}
+.Rectangle66{
+    position:absolute;
+    margin-top: 300px;
+    top: 2535px;
+    left: 900px;
+    right: 707px;
+    width: 318.5px;
+    height: 365.083px;
+}
+.anywhere{
+    width: 1920px;
+    height: 5927px;
+    background: #FFF;
+}
+.anywhere-title{
+    position:absolute;
+    margin-top: 300px;
+    top: 3259.83px;
+    left: 1197px;
+    right:297px;
+    text-align: right;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+}
+.Rectangle67{
+    position:absolute;
+    margin-top: 300px;
+    top: 3019.81px;
+    left: 238px;
+    right: 972px;
+    border-radius: 8px;
+    width: 710px;
+    height: 650px;
+}
+.Rectangle78{
+    position:absolute;
+    margin-top: 300px;
+    top: 3427.83px;
+    left: 766px;
+    right: 836px;
+    border-radius: 8px;
+    width: 318px;
+    height: 365px;
+}
+.an-title1{
+    position:absolute;
+    margin-top: 300px;
+    top: 3463.83px;
+    left: 1197px;
+    right:240px;
+    width: 483px;
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+}
+/* .black3{
+    display: flex;
+    background-image: url("../images/Group\ 14.png");
+    top: 3912px;
+    left: 1197px;
+    right:240px;
+    width: 1013px;
+    height: 821px;
+    fill: rgba(255, 255, 255, 0.10);
+    color: #FF42A5, #FF42A5;
+} */
+.group{
+    position:absolute;
+    margin-top: 300px;
+    top: 3912px;
+    left: 1197px;
+    right:240px;
+    width: 483px;
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+}
