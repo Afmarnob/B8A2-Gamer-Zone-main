@@ -61,6 +61,7 @@ nav li a{
     height: 700px;
     padding-right:0 200px;
     margin-right: 0 68px;
+    fill: linear-gradient(223deg, rgba(140, 87, 238, 0.03) 0%, rgba(241, 68, 174, 0.03) 100%);
 }
 h2{
     color: #0B0223;
@@ -401,26 +402,235 @@ img{
     font-weight: 400;
     line-height: 30px; 
 }
-/* .black3{
-    display: flex;
-    background-image: url("../images/Group\ 14.png");
-    top: 3912px;
-    left: 1197px;
-    right:240px;
-    width: 1013px;
-    height: 821px;
-    fill: rgba(255, 255, 255, 0.10);
-    color: #FF42A5, #FF42A5;
-} */
-.group{
+.group14{
     position:absolute;
     margin-top: 300px;
     top: 3912px;
-    left: 1197px;
+    left:0px;
     right:240px;
-    width: 483px;
+    width: 1013px;
+    height: 821px;
     color: #534C64;
+    background-color: #FF42A5;
+}
+.group65{
+    position:absolute;
+    margin-top: 300px;
+    top: 3912px;
+    left:969px;
+    right:240px;
+    width: 1013px;
+    height: 821px;
+    color: #534C64;
+    background-color: #FF42A5;
+}
+.first1 {
+    position:absolute;
+    margin-top: 300px;
+    font-size: 48px;
+    top: 4032.83px;
+    left: 240px;
+    right: 1254px;
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; 
+}
+.second2 {
+    position:absolute;
+    margin-top: 300px;
+    font-size: 48px;
+    top: 4116.83px;
+    left: 390px;
+    right: 1000px;
+    color: #FFF;
+    font-family: Work Sans;
     font-size: 18px;
+    font-style: normal;
     font-weight: 400;
     line-height: 30px; 
+}
+.instant1{
+    position:absolute;
+    margin-top: 300px;
+    font-size: 48px;
+    top: 4227.83px;
+    left: 390px;
+    right: 1000px;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+}
+.country{
+    position:absolute;
+    margin-top: 300px;
+    font-size: 48px;
+    top: 4227.83px;
+    left: 770px;
+    right:900px;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+}
+.position{
+    position:absolute;
+    border-radius: 48px;
+    background: #FFF;
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 10px;
+    margin-top: 208px;
+    top: 4620.83px;
+    left: 390px;
+    right:1290px;
+    color: (90deg, #FF42A5 0%, #FF42A5 100%);
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.Rectangle11{
+    position:absolute;
+    margin-top: 300px;
+    top: 4863.83px;
+    left: 249px;
+    right: 1611px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Action{
+    position:absolute;
+    margin-top: 300px;
+    top: 4882.83px;
+    left: 325px;
+    right: 1458px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle12{
+    position:absolute;
+    margin-top: 300px;
+    top: 4863.83px;
+    left:519px;
+    right: 1341px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Adventure{
+    position:absolute;
+    margin-top: 300px;
+    top: 4882.83px;
+    left: 595px;
+    right: 1150px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle13{
+    position:absolute;
+    margin-top: 300px;
+    top: 4863.83px;
+    left:827px;
+    right: 1033px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Arcade{
+    position:absolute;
+    margin-top: 300px;
+    top: 4882.83px;
+    left: 903px;
+    right: 875px;
+    color:#FF42A5;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle14{
+    position:absolute;
+    margin-top: 300px;
+    top: 4863.83px;
+    left:1109px;
+    right: 751px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Educational{
+    position:absolute;
+    margin-top: 300px;
+    top: 4882.83px;
+    left: 1185px;
+    right: 546px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle15{
+    position:absolute;
+    margin-top: 300px;
+    top: 4863.83px;
+    left:1417px;
+    right: 443px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Rectangle16{
+    position:absolute;
+    margin-top: 300px;
+    top: 4971px;
+    left:335px;
+    right: 1525px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Rectangle17{
+    position:absolute;
+    margin-top: 300px;
+    top: 4971px;
+    left:667px;
+    right: 1193px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Rectangle18{
+    position:absolute;
+    margin-top: 300px;
+    top: 4971px;
+    left:1013px;
+    right: 847px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Rectangle19{
+    position:absolute;
+    margin-top: 300px;
+    top: 4971px;
+    left:1291px;
+    right: 569px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
