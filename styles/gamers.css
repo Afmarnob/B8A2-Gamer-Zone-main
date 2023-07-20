@@ -1077,20 +1077,3 @@ footer{
     font-size: 16px;
     font-weight: 500;
 }
-@media screen and (max-width:576px) {
-    .topImg{
-        grid-template-columns: repeat(1, 1fr);
-    }
-    
-}
-@media screen and (max-width:576px) {
-    .first-txt{
-        grid-template-columns: repeat(1, 1fr);
-    }
-    
-}
-@media screen and (min-width:576px) and (max-width:992px) {
-    .topImg{
-        grid-template-columns: repeat(2, 1fr);
-    }
- }
